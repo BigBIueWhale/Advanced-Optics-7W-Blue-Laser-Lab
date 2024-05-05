@@ -7,6 +7,27 @@ The primary objective of this research plan is to create a proof-of-concept for 
 ## Background
 Conventional solar panels rely on a broad spectrum of sunlight for energy conversion. This research aims to explore the potential of using high-power, short-wavelength laser light to excite photovoltaic cells, potentially leading to higher efficiency and novel applications.
 
+## Existing Knowledge
+Photovoltaic cells have varying efficiencies and absorption wavelengths. The tables below provide information on the efficiency and absorption wavelengths of different photovoltaic materials:
+
+### Table 1: Efficiency of Photovoltaic Materials
+| Material          | Efficiency (%) | Notes                                             |
+|-------------------|----------------|---------------------------------------------------|
+| Silicon (Si)      | 20-25          | Most common commercial material                   |
+| Cadmium Telluride (CdTe) | 15-20 | Good for thin-film applications                  |
+| Copper Indium Gallium Selenide (CIGS) | 15-20 | High absorption coefficient                    |
+| Perovskite        | 18-25          | Emerging material with rapid efficiency gains     |
+| Gallium Arsenide (GaAs) | 25-30   | High efficiency; costly                           |
+
+### Table 2: Absorption Wavelengths of Photovoltaic Materials
+| Material          | Absorption Wavelength Range (nm) | Notes                                   |
+|-------------------|----------------------------------|-----------------------------------------|
+| Silicon (Si)      | 300-1100                         | Broad range                            |
+| Cadmium Telluride (CdTe) | 400-800                | Good for short wavelengths             |
+| Copper Indium Gallium Selenide (CIGS) | 500-1200  | Effective across a broad spectrum      |
+| Perovskite        | 400-800                          | High absorption efficiency             |
+| Gallium Arsenide (GaAs) | 400-900                    | High efficiency over a wide range      |
+
 ## Research Steps
 
 1. **Literature Review**
