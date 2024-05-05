@@ -27,6 +27,7 @@ Photovoltaic cells have varying efficiencies and absorption wavelengths. The tab
 | Perovskite        | 400-800                          | High absorption efficiency             |
 | Gallium Arsenide (GaAs) | 400-900                    | High efficiency over a wide range      |
 
+### Table 3: Theoretical🤔 Efficiency Gain
 ![Efficiency UML diagram](./mermaid_uml_efficiency.png)
 
 ## Resources and Budget 💰🔬
