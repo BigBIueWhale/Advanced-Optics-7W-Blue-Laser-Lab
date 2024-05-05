@@ -1,5 +1,5 @@
 # Research Plan: BlueBeam Solar Labs Jerusalem
-![Layers with beam diagram](./layers_diagram.png)
+![Layers with beam diagram](./layers_diagram_small.png)
 
 ## Objective
 The primary objective of this research plan is to create a proof-of-concept for a new type of photovoltaic cell (solar panel) excited by short wavelength (blue) high power (7 watt) laser absorption. The research will be conducted at BlueBeam Solar Labs in Jerusalem.
