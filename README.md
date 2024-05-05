@@ -6,6 +6,20 @@ The primary objective of this research plan is to create a proof-of-concept for 
 ## Background 📜
 Conventional solar panels rely on a broad spectrum of sunlight for energy conversion. This research aims to explore the potential of using high-power, short-wavelength laser light to excite photovoltaic cells, potentially leading to higher efficiency and novel applications. ☀️🌈
 
+## Safety 🥽
+
+Ensuring the safety of the research team is crucial. Due to the use of high-power lasers and advanced photovoltaic materials, researchers must choose between two essential safety equipment options:
+
+1. **Laser Safety Glasses** 🥽
+   - Minimum Optical Density (OD) of 4+ for the blue laser (400-450 nm)
+   - OD 3+ for other wavelengths to protect against potential fluorescence and phosphorescence
+
+2. **Meta Quest 3 VR Headset** 🥽📹
+   - Video passthrough feature blocks all wavelengths
+   - Provides protection against unknown wavelengths emitted by advanced materials
+
+The choice between safety glasses and the VR headset will depend on the specific requirements of each experiment and the preferences of the research team.
+
 ## Existing Knowledge 📚
 Photovoltaic cells have varying efficiencies and absorption wavelengths. The tables below provide information on the efficiency and absorption wavelengths of different photovoltaic materials: 📊📈
 
