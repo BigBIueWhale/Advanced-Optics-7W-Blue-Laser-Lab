@@ -1,0 +1,24 @@
+graph TD
+    subgraph Regular Solar Panel
+        Sunlight(Sunlight)
+        SolarCell[Solar Cell]
+        ElectricalOutput[Electrical Output]
+        EnergyLosses[Energy Losses<br>- Reflection<br>- Thermalization<br>- Recombination<br>- Transmission]
+        Sunlight --> SolarCell
+        SolarCell --> ElectricalOutput
+        SolarCell --> EnergyLosses
+    end
+
+    subgraph BlueBeam Photovoltaic Cell
+        SunlightBB(Sunlight)
+        Laser(Short Wavelength High Power Laser<br>7 Watts)
+        PhotovoltaicCell[Photovoltaic Cell<br>Optimized Material<br>Band Gap: Tuned to Sunlight]
+        ImprovedElectricalOutput[Improved Electrical Output]
+        ReducedEnergyLosses[Reduced Energy Losses<br>- Optimized Absorption<br>- Reduced Thermalization<br>- Enhanced Carrier Extraction]
+        QuantumEffects[Quantum Effects Triggered by Laser<br>- Quantum Mechanical Electron Transitions<br>- Band Gap Optimization<br>- Multiphoton Excitation<br>- Hot Carrier Extraction]
+        SunlightBB --> PhotovoltaicCell
+        Laser --> PhotovoltaicCell
+        PhotovoltaicCell --> ImprovedElectricalOutput
+        PhotovoltaicCell --> ReducedEnergyLosses
+        PhotovoltaicCell -.-> QuantumEffects
+    end
