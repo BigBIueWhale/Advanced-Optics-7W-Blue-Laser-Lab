@@ -1,7 +1,7 @@
-# Research Plan: BlueBeam Solar Labs Jerusalem 🌞🔬
+# Research Plan: Starup Feasibility Test in Jerusalem 🌞🔬
 
 ## Objective 🎯
-The primary objective of this research plan is to create a proof-of-concept for a new type of photovoltaic cell (solar panel) excited by short wavelength (blue) high power (7 watt) laser absorption. The research will be conducted at BlueBeam Solar Labs in Jerusalem. 🔋🔎
+The primary objective of this research plan is to create a proof-of-concept for a new type of photovoltaic cell (solar panel) excited by short wavelength (blue) high power (7 watt) laser absorption. The research will be conducted at a rented lab in Jerusalem. 🔋🔎
 
 ## Background 📜
 Conventional solar panels rely on a broad spectrum of sunlight for energy conversion. This research aims to explore the potential of using high-power, short-wavelength laser light to excite photovoltaic cells, potentially leading to higher efficiency and novel applications. ☀️🌈
@@ -65,7 +65,7 @@ The successful completion of this research plan is expected to yield the followi
 - Publications in high-impact scientific journals and presentations at conferences. 📝🎤
 - Collaboration opportunities with industry partners and research institutions for further development and commercialization. 🤝🏭
 
-The research conducted at BlueBeam Solar Labs Jerusalem aims to push the boundaries of photovoltaic technology and explore innovative approaches to solar energy conversion. The success of this project could lead to the development of next-generation solar panels with improved efficiency, versatility, and cost-effectiveness. 🌞🔋💡
+The research conducted at a rented lab in Jerusalem aims to push the boundaries of photovoltaic technology and explore innovative approaches to solar energy conversion. The success of this project could lead to the development of next-generation solar panels with improved efficiency, versatility, and cost-effectiveness. 🌞🔋💡
 
 ## Operation Principle 🔬🌈
 ![Layers with beam diagram](./layers_diagram_small.png)
